@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Imti
+# 👋 Hi, I'm Imtiaz
 
 I'm a **Data Analyst** skilled in SQL, Power BI, and turning real-world data into clear insights.  
 After completing my **Retail Analytics Project** (SQL → Power BI), I'm now expanding into **data engineering** to build full end-to-end data pipelines.
